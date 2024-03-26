@@ -1,9 +1,10 @@
-/* criar propriedades que quer e aplicar no nosso componente. Criar classe banner por exemplo */
+/* Para criar propriedades que quer e aplicar no nosso componente. 
+Criar classe banner por exemplo */
 .banner {
     background-color: #6278F7;
     text-align: center;
 }
 
 .banner img {
-    max-width: ;
+    max-width: 1;
 }

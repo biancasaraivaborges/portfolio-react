@@ -1,11 +1,12 @@
-import Banner from './components/Banner/Banner';
+import Banner from './components/Banner/Banner.js';
+import Form from './components/Formulario/index.js';
 
 //chama banner na função numa tag (tag React) que criamos e é como se fosse html. 
 function App() {
   return (
     <div className="App">
       <Banner />
-       {/* <h1>Olá Mundo!</h1> */}
+      <Form />
 
     </div>
   );
